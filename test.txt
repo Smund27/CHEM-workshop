@@ -1,1 +1,3 @@
-This is my test text file
+This is my updated and changed test text file.
+
+All changes will be logged in git.
